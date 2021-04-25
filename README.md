@@ -26,7 +26,7 @@ The heart of the "Gimbal Tower" is the "Sensor Tower" to scale the axis deflecti
 
 The pulleys are modified for 366-3M-9 timing belts (2x).
 
-For stick extensions you can modify the firmware patch's main axis scaling.
+For stick extensions you can modify the firmware patch's main axis scaling. https://github.com/fred41/G940-firmware-fixes
 fred41 was so kind to provide preset values with matching checksums:
 
 Scale: 0x48 |  72 CRC32: 0x9cfb053c (huge)
