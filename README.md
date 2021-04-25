@@ -15,6 +15,8 @@ The main concept is a modifiable "gimbal tower" design, where you can add and ch
 The heart of the "Gimbal Tower" is the "Sensor Tower" to scale the axis deflection of the gimbal (~20° in every direction) down to ~15° for the Melexis magnetic sensor.
 
 ![SensorTower_design](https://user-images.githubusercontent.com/83156433/115985948-67d77c80-a5ae-11eb-8803-757ecc573d65.jpg)
+![Screenshot 2021-04-18 104225](https://user-images.githubusercontent.com/83156433/115987027-9e63c600-a5b3-11eb-99f0-f029d3b58b45.jpg)
+
 
 The pulleys are modified for 366-3M-9 timing belts (2x).
 
