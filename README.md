@@ -1,4 +1,4 @@
-# G940-Total-Conversion
+# G940 Total Conversion Kit
 FFB Joystick Base Mod
 
 This Mod is based on the gimbal design of: https://github.com/o-devices/bldc-ffb-joystick-base and the custom firmware patch by fred41: https://github.com/fred41/G940-firmware-fixes
