@@ -17,6 +17,8 @@ The main concept is a modifiable "gimbal tower" design, where you can add and ch
 ![Gimbal_Tower](https://user-images.githubusercontent.com/83156433/115985229-22fe1680-a5ab-11eb-8fc5-f7e652d623b5.jpg)
 
 ![4](https://user-images.githubusercontent.com/83156433/115985722-68bbde80-a5ad-11eb-8a9d-f3659ec7684f.jpg)
+![IMG_20210425_113305](https://user-images.githubusercontent.com/83156433/115988572-af640580-a5ba-11eb-841a-9a1511a03b70.jpg)
+![IMG_20210425_113335](https://user-images.githubusercontent.com/83156433/115988575-b2f78c80-a5ba-11eb-8ac7-507ad00d83a8.jpg)
 
 The heart of the "Gimbal Tower" is the "Sensor Tower" to scale the axis deflection of the gimbal (~20° in every direction) down to ~15° for the Melexis magnetic sensor.
 
@@ -27,6 +29,7 @@ The heart of the "Gimbal Tower" is the "Sensor Tower" to scale the axis deflecti
 The pulleys are modified for 366-3M-9 timing belts (2x).
 
 For stick extensions you can modify the firmware patch's main axis scaling. https://github.com/fred41/G940-firmware-fixes
+
 fred41 was so kind to provide preset values with matching checksums:
 
 Scale: 0x48 |  72 CRC32: 0x9cfb053c (huge)
