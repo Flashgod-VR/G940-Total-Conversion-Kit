@@ -6,6 +6,12 @@ This Mod is based on the gimbal design of: https://github.com/o-devices/bldc-ffb
 ![IMG_20210424_142404](https://user-images.githubusercontent.com/83156433/115984653-8f2b4b00-a5a8-11eb-8ae3-cd5bdb20b1a4.jpg)
 
 It only uses the main PCB of the original G940 joystick base, it's magnetic axis sensor, the DC motors and the patched firmware.
+Features:
+- sturdy plywood construction (8mm laser cut)
+- stronger gimbal for custom grips and extensions (designed by https://github.com/o-devices)
+- active cooling via two 40mm 5V fans (USB powered)
+- enhanced axis sensor precision without backlash
+- lots of room for customization and addons
 
 The main concept is a modifiable "gimbal tower" design, where you can add and change parts to fit your needs for customization.
 ![Gimbal_Tower](https://user-images.githubusercontent.com/83156433/115985229-22fe1680-a5ab-11eb-8fc5-f7e652d623b5.jpg)
